@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The player holds the racket in the right hand, with the head aligned
     straight up and down, tilted forward toward the net, and the left hand lightly
     steadying it at the neck.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_04.jpg
 uid: 8ece2b62-e5b4-72e9-bfa1-1f9c598e4236

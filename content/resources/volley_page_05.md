@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Leaning on the right foot, the racket swings around to the back, staying
     perpendicular to the arm, stopping less than halfway.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_05.jpg
 uid: 08cf2788-ac9b-449d-f2dc-2e2588fffda5

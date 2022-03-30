@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: A tennis player stands at the baseline holding the racket in front of
     him with both hands.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_01.jpg
 uid: e51e5f5f-9db8-760c-6a0a-ea91365cca5a

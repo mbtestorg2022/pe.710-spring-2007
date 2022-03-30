@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Viewed from the left, the player holds the racket in the right hand,
     with the head aligned straight up and down, tilted forward toward the net, and
     the left hand lightly steadying it at the neck.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_08.jpg
 uid: 907bf3f6-e1bc-5d5c-a401-2b24c2133366

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The player holds the racket in his right hand, near the end of the grip,
     with the palm facing the ground, the strings facing up and down, and the head
     pointing towards the net.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_02.jpg
 uid: 0afad349-ed70-126d-8ce9-8cc88125d21f

@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Holding the racket to the side, the underside of the grip is visible;
     the fingers are at a 45 degree angle with the end of the racket.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_03.jpg
 uid: 8f15e8ab-7e41-fec4-9b7f-22f39f1b3bc6

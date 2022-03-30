@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Leaning on the left foot, the ball is tossed up into the air, with the
     racket staying behind the head.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_04.jpg
 uid: e33254c9-da9a-f82c-3c38-1aa1d5d4d8eb

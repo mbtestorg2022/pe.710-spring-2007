@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: After the stroke, the racket is held high over the left shoulder, with
     weight on the right foot.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_09.jpg
 uid: 03d1d140-4be9-cbf3-447b-dc17c6415e8b

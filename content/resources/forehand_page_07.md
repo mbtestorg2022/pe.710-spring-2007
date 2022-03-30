@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The racket has swung through the rest of the arc, finishing over the
     left shoulder, with all weight on the left foot.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_07.jpg
 uid: 9890be9a-f764-895e-4095-b15893f7672c

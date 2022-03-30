@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Here, the left hand grips the racket above the right hand, with the palm
     facing the net.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_03.jpg
 uid: a9b718e3-d681-10b2-df9b-b1a4fff3d762

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The player holds the racket in the forehand grip, with the head aligned
     straight up and down, tilted forward toward the net, and the left hand lightly
     steadying it at the neck.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_04.jpg
 uid: 49afc896-9eb1-b57f-6242-ca8732d5abef

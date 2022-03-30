@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The racket is held in front with the right hand, the left hand steadying,
     with a wide, alert stance.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_10.jpg
 uid: 4ab4ec37-617f-1871-beda-88eb571e0efa

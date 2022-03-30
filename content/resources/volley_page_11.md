@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The right arm ends pointing toward the net, with the racket pointing
     up and to the left, and the body facing left with all weight on the right foot.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_11.jpg
 uid: 8df61739-11a9-4243-274c-db97e04876ad

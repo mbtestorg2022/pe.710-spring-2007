@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Stepping forward on the left foot, the right hand swings the racket up
     and over the head to meet the ball as it falls.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_10.jpg
 uid: a75257c5-54ae-931f-7d92-fe1e30f77cca

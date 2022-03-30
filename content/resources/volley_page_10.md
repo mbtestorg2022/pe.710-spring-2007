@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The left hand lets go as the racket swings forward, still tilted up,
     and the player steps across with the right foot.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_10.jpg
 uid: a0f54b41-ae36-88e8-9ad7-02ddab116ef9

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The right foot steps forward and across to the left, with the racket
     still behind the body, held in both hands.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_11.jpg
 uid: 16a3d581-284e-6334-d589-2fc40c5ba1f8

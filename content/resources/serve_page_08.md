@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The left hand brings the ball down while the right hand swings the racket
     back.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_08.jpg
 uid: 1159ab2b-d0fd-a8ad-f888-05de5ad25161

@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: At the end of the stroke, the racket is held perpendicular to the arm,
     not quite in front of the body, with all weight on the left foot.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_07.jpg
 uid: e9596683-60e1-b737-0cde-400ec1fc1015

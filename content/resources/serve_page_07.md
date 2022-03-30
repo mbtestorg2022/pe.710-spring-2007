@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The racket is held in front, pointing towards the net, with the ball
     in the left hand near the racket neck.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_07.jpg
 uid: c38502aa-770a-a159-4142-bcdf27ef8d0a

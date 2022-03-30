@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The player holds the racket in both hands, with the head aligned straight
     up and down, tilted forward toward the net, with the left hand above the right.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_09.jpg
 uid: 28d71f38-238e-633e-a021-94fbb771b551

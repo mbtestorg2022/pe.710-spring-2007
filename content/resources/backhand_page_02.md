@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The racket is held in the right hand, pointing left across the body,
     with the strings parallel to the net and the palm facing the ground.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_02.jpg
 uid: 348b87b4-8e3b-1f01-6fa7-466313c127bb

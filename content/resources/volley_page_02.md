@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The racket is held near the end of the handle with the right hand, palm
     facing down, strings facing right and left, and head pointing towards the net.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_02.jpg
 uid: 57c02b12-6ba6-cd67-4b50-f3c85b73e512

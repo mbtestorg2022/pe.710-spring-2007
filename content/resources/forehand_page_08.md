@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The racket swings back with the right hand, with weight on the right
     foot.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_08.jpg
 uid: 51525163-3b18-c779-34d1-c76261d7d9ba

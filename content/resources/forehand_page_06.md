@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The player steps forward on the left foot, bringing the racket around
     to the side.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_06.jpg
 uid: 9ae7b0ab-8ac8-ec94-1288-b9b5cbb1097a

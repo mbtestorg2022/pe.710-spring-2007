@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Stepping across with the left foot, the racket swings forward, making
     contact with the ball before it passes.
+parent_uid: e7d769ea-09ff-7abd-48e7-fad702f80a4d
 resourcetype: Image
 title: volley_Page_06.jpg
 uid: 02bb6452-7d88-b2e4-ccc8-c506a39a1970

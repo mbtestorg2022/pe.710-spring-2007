@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The left hand moves straight up and releases the ball at the top of the
     motion, and the right hand brings the racket up behind the head, ready to hit
     the ball.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_09.jpg
 uid: 099730e6-9543-279c-3c61-af4f7307f256

@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: Finishing the step onto the left foot, the right hand swings the racket
     up and over to hit the ball forward as it falls.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_05.jpg
 uid: 9cc6f427-4d09-81c9-915e-af2a2cf42b99

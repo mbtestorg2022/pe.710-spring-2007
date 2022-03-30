@@ -12,6 +12,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: At the end of the stroke, the racket is held outstretched at shoulder
     level, pointing directly upwards, in the right hand.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_08.jpg
 uid: b23bb09b-231a-fa5e-8ec4-0d212061da19

@@ -13,6 +13,7 @@ image_metadata:
   image-alt: The player puts weight on the left foot, swinging the racket across the
     body to the left, so it ends up behind the body, pointing upwards, with the left
     hand holding it at the neck.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_05.jpg
 uid: 007170f1-b9d2-fab0-a45f-03bd47e47568

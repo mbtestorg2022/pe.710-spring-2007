@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: At the end of the stroke, the racket has wrapped around the left side
     of the body at hip-level.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_06.jpg
 uid: 390c0f4c-4b8e-faae-4b15-e35ff8dad28f

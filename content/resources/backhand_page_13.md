@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The left hand stays on the racket all the way through the stroke, pulling
     the racket back over the right shoulder.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_13.jpg
 uid: 9cfc4027-a2d1-7dc2-a359-56710bccf485

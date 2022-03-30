@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: The left hand releases the racket to swing forward, meeting the ball
     with the strings parallel to the net.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_07.jpg
 uid: 39b5c168-9871-6a09-048c-754f5e378f6c

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: The right hand holds the racket near the end of the handle, with the
     palm facing the ground, the strings facing right and left, and the head pointing
     towards the net.
+parent_uid: bb9aed9e-e26e-1e7c-4759-fe2fc9c249f7
 resourcetype: Image
 title: serve_Page_02.jpg
 uid: 65891c67-973f-fc42-1be4-08504e2719ba

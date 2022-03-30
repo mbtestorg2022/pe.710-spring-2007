@@ -9,6 +9,7 @@ image_metadata:
     ball in front of the player.
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: As the racket swings forward, the player keeps it oriented vertically.
+parent_uid: de168d39-f840-f977-8435-fb3ef4fd9530
 resourcetype: Image
 title: forehand_Page_13.jpg
 uid: b08029a6-ea6e-b070-ee1e-d434b2bb90d2

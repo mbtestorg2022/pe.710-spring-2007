@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by MIT OpenCourseWare.'
   image-alt: A tennis player stands at the baseline holding the racket in front of
     him with both hands.
+parent_uid: bab96a01-fe45-4885-e619-9988ce1bc92e
 resourcetype: Image
 title: backhand_Page_01.jpg
 uid: ef761150-be99-142b-4f93-fd584a4b1994
